@@ -1,0 +1,7 @@
+tensorflow
+keras
+sklearn
+matplotlib 
+pandas 
+pil
+tk
